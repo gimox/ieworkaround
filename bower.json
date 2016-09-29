@@ -1,0 +1,16 @@
+{
+  "name": "ieworaround",
+  "authors": [
+    "Giorgio Modoni <modogio@gmail.com>"
+  ],
+  "description": "utils for old explorer browser compatibility",
+  "main": "ieworkaround.min.js",
+  "keywords": [
+    "internet",
+    "explorer",
+    "compatibility",
+    "workaround"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
